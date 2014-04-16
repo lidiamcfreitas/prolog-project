@@ -1,2 +1,2 @@
-prolog-project
+Prolog Project
 ==============
