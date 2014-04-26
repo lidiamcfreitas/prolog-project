@@ -1,4 +1,6 @@
-##Clues To Implement## 
+**Link To A Click-Editable List** http://git.io/qEUPIg
+
+##Clues To Implement
 - [ ] trioLeft(Peca, Linha, Coluna, Tabuleiro)
 - [ ] trioRight(Peca, Linha, Coluna, Tabuleiro)
 - [ ] cobra(Peca, Linha, Coluna, Tabuleiro)
